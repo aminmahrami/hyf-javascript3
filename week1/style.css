@@ -1,0 +1,29 @@
+body{text-align: center;
+  background-image: url(https://www.wired.com/wp-content/uploads/blogs/wiredenterprise/wp-content/uploads/2013/09/20130925-GITHUB-NEW-OFFICE-150edit.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: monospace;
+  color: white;
+}
+
+h1{color:white;
+}
+
+input, select, button{
+  padding:10px;
+}
+
+select{margin-left: 10px;
+}
+
+a{text-decoration: none;
+  color: white;
+} 
+
+a:hover{font-size: 1.5em;}
+
+div{background-color: rgba(0,0,0,0.5);
+  display: inline-block;
+  width: 50%;
+  margin-top: 20px; 
+}
